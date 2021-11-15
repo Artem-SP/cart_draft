@@ -13,7 +13,7 @@ class Trades {
     makeAutoObservable(this);
   }
 
-
+addSymbol(symbol) { this.sympol = symbol }
   
 }
 
